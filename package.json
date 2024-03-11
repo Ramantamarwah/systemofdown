@@ -1,6 +1,6 @@
 {
-  "name": "@ramantamarwah/systemofdown",
-  "version": "1.1.4",
+  "name": "systemofdown",
+  "version": "1.1.6",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -11,7 +11,7 @@
     "next": "14.1.3",
     "react": "^18",
     "react-dom": "^18",
-    "systemofdown": "^1.1.4"
+    "systemofdown": "^1.1.6"
   },
   "devDependencies": {
     "@types/node": "^20",
